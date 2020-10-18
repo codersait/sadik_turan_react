@@ -2,6 +2,8 @@
 `npm list -g --depth 0`
 ### npm globally installation
 `npm install --global package-name` or `npm i package-name `
+### npm devDependency installation
+`npm install --save-dev package-name`
 ### Live Server
 `live-server public` public folder contains index.html
 ### Babel setup
